@@ -1,8 +1,14 @@
 owner: dragonjuno
 repo: ovn-uptime
 
+secrets:
+  - SERVER_HOST
+  - SERVER_PORT
+
 sites:
   - name: 오븐 웹사이트
+    url: https://artovn.com
+  - name: 오븐 지원센터
     url: https://artovn.com
   - name: 오븐 이미지 서버
     url: https://cdn.ovn.one
@@ -11,6 +17,10 @@ sites:
       - 301
       - 302
       - 400
+  - name: 웹소켓 데몬
+    check: "tcp-ping"
+    url: wss.ovn.one
+    port: 443
 
 status-website:
   name: 시스템 상태 현황
