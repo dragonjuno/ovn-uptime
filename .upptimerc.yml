@@ -6,10 +6,6 @@ sites:
     url: https://artovn.com
   - name: 오븐 이미지 서버
     url: https://cdn.ovn.one
-  - name: 오븐 웹소켓 서버
-    url: https://wss.ovn.one
-  - name: 오븐 메일 서버
-    url: https://mail.ovn.one
 
 status-website:
   name: 시스템 상태 현황
