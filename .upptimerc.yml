@@ -6,6 +6,11 @@ sites:
     url: https://artovn.com
   - name: 오븐 이미지 서버
     url: https://cdn.ovn.one
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 400
 
 status-website:
   name: 시스템 상태 현황
