@@ -26,6 +26,8 @@ status-website:
   name: 시스템 상태 현황
   cname: "status.ovn.one"
   theme: light
+  favicon: "https://cdn.ovn.one/brands/ovn_fav.ico"
+  logoUrl: "https://cdn.ovn.one/brands/ovn_logo.svg"
   i18n:
     activeIncidents: 현재 발생 중인 장애
     allSystemsOperational: 모든 시스템이 정상 작동 중입니다
