@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 774,
-    "timeWeek": 774,
-    "timeMonth": 774,
-    "timeYear": 774,
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://cdn.ovn.one",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.ovn.one.ico",
     "slug": "오븐-이미지-서버",
-    "status": "down",
-    "uptime": "0.69%",
-    "uptimeDay": "0.69%",
-    "uptimeWeek": "0.69%",
-    "uptimeMonth": "0.69%",
-    "uptimeYear": "0.69%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "status": "up",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2026-08-23": 29
+      "2026-08-23": 33
     }
   }
 ]
