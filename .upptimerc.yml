@@ -1,31 +1,29 @@
-# Change these first
 owner: dragonjuno
 repo: ovn-uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: 오븐 웹사이트
+    url: https://artovn.com
+  - name: 오븐 이미지 서버
+    url: https://cdn.ovn.one
+  - name: 오븐 웹소켓 서버
+    url: https://wss.ovn.one
+  - name: 오븐 메일 서버
+    url: https://mail.ovn.one
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: 시스템 상태 현황
+  cname: "status.ovn.one"
+  theme: light
+  i18n:
+    activeIncidents: 현재 발생 중인 장애
+    allSystemsOperational: 모든 시스템이 정상 작동 중입니다
+    incidentReport: 장애 리포트
+    activeIncidentSummary: "$OPENED에 시작됨 ($POSTS개의 업데이트)"
+    liveStatus: 실시간 상태
+    overallUptime: "전체 가동률: $UPTIME"
+    degradedPerformance: 성능 저하
+    completeOutage: 전체 중단
+    partialOutage: 부분 중단
+    majorOutage: 대규모 장애
+    footer: 본 페이지는 [Upptime]($REPO)으로 자동 구동됩니다.
