@@ -22,18 +22,20 @@
     "url": "https://artovn.com",
     "icon": "https://icons.duckduckgo.com/ip3/artovn.com.ico",
     "slug": "오븐-지원센터",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 764,
-    "timeWeek": 602,
-    "timeMonth": 594,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "time": 1402,
+    "timeDay": 26857,
+    "timeWeek": 7146,
+    "timeMonth": 2283,
+    "timeYear": 1402,
+    "dailyMinutesDown": {
+      "2026-10-23": 0
+    }
   },
   {
     "name": "오븐 이미지 서버",
