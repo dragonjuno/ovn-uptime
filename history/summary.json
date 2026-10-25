@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 808,
-    "timeWeek": 2216,
-    "timeMonth": 1104,
-    "timeYear": 913,
+    "time": 908,
+    "timeDay": 574,
+    "timeWeek": 2217,
+    "timeMonth": 1095,
+    "timeYear": 908,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "오븐-지원센터",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "87.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.15%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.79%",
-    "time": 1383,
-    "timeDay": 18144,
+    "time": 1370,
+    "timeDay": 512,
     "timeWeek": 6490,
-    "timeMonth": 2248,
-    "timeYear": 1383,
+    "timeMonth": 2242,
+    "timeYear": 1370,
     "dailyMinutesDown": {
       "2026-10-23": 186
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 307,
-    "timeWeek": 262,
+    "time": 265,
+    "timeDay": 217,
+    "timeWeek": 269,
     "timeMonth": 280,
-    "timeYear": 266,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -68,8 +68,8 @@
     "uptimeYear": "100.00%",
     "time": 11,
     "timeDay": 6,
-    "timeWeek": 12,
-    "timeMonth": 9,
+    "timeWeek": 13,
+    "timeMonth": 10,
     "timeYear": 11,
     "dailyMinutesDown": {}
   }
